@@ -1,0 +1,141 @@
+{
+    "citys": {
+        "luebeck": {
+            "id": "10",
+            "sights": {
+                "holstentor": {
+                    "id": "11",
+                    "bildURL": "\/images\/Holstentor-Bild.jpeg",
+                    "name": "Das Holstentor",
+                    "beschreibung": "Das Holstentor ist das beruehmte Wahrzeichen Luebecks und eines der beliebtesten Fotomotive in ganz Nordeuropa. Es ziert mit seinen dicken roten Backsteinmauern und den wuchtigen Doppeltuermen unzaehlige Postkarten, Marzipantorten, Briefmarken und 2-Euro-Muenzen. Das imposante gotische Stadttor war einst Symbol der Macht und wichtiger Teil der Stadtbefestigung, die die reiche Hansestadt vor feindlichen Angriffen schuetzen sollte. Auf den gro\u00dfen Gruenflaechen vor dem Tor kannst du im Sommer herrlich entspannen und in Ruhe Plaene fuer deinen Luebeck-Besuch schmieden. Die beiden eisernen Loewen, die in Lebensgroe\u00dfe und mit luebscher Gelassenheit die Stufen zum Holstentor bewachen, lassen sich von dir bestimmt gerne zu einem laessigen Selfie ueberreden."
+                },
+                "marienkirche": {
+                    "id": "12",
+                    "bildURL": "\/images\/Marienkirche-Bild.jpeg",
+                    "name": "Die Marienkirche",
+                    "beschreibung": "Die Entstehung der Marienkirche ist eng mit der Stadtgeschichte Luebecks verbunden. Bereits kurz nach der Gruendung Luebecks gab es eine Marktkirche am heutigen Standort von St. Marien. Sie gilt bis heute als Kirche der fuehrenden Buerger und des Rates der Stadt. Zu Beginn des 13. Jahrhunderts war die Marienkirche noch eine romanische Basilika, dann begann der Umbau zur gotischen Kathedrale, die mangels Steinbruechen in der norddeutschen Ebene aus Backstein erbaut wurde. Besonders sehenswert sind neben der beeindruckenden Architektur die Totentanzfenster, die astronomische Uhr, der Fredenhagen-Altar und die Kapelle mit den 1942 herabgestuerzten Glocken. Ein besonderes Erlebnis sind die vielfaeltigen Musikveranstaltungen in St. Marien. Wir haben eine kurze digitale Fuehrung fuer dich vorbereitet. Und die Glocken und die Orgel von St Marien laden dich schon jetzt zu einem Hoerbesuch ein."
+                },
+                "rathaus": {
+                    "id": "13",
+                    "bildURL": "\/images\/RathausBremen-Bild.jpeg",
+                    "name": "Das Rathaus",
+                    "beschreibung": "Luebeck war einst die Koenigin der Hanse und der jeweilige Luebecker Buergermeister lenkte als ihr Vormann die Geschicke des mittelalterlichen Hansebundes, der nie offiziell gegruendet oder aufgeloest wurde. Der Begriff Hanse bezeichnete eine Gruppe von Kaufleuten, die gemeinsam Handel trieben und bestimmte Privilegien im Ausland genossen. Hansestaedte gab es nicht nur an den Kuesten der Nord- und Ostsee, sondern auch im Binnenland. Zur Entscheidungsfindung trafen die Mitglieder jaehrlichen zusammen, und 43 von 67 Hansetagen fanden in Luebeck statt, das geografisch guenstig lag. So nahm Luebeck die fuehrende Rolle in der Hanse ein. Die Schaltzentrale der Macht war das Luebecker Rathaus, das heute zum UNESCO Welterbe Hansestadt Luebeck gehoert. Der Hansegedanke lebt uebrigens bis heute in der Hanse der Neuzeit fort und der Luebecker Buergermeister ist nach wie vor traditionell ihr Vormann. Das Luebecker Rathaus liegt mitten im Herzen der Altstadt und zaehlt zu den bekanntesten Bauwerken der Backsteingotik. Es gleicht mit seiner beeindruckenden Fassade einem Maerchenschloss. Formgebend fuer die heutige Gestalt des Gebaeudes waren architektonische Moden und Stile aus drei Jahrhunderten: seit 1226 kamen immer wieder Bauteile hinzu, es erfolgten Umbauten und Erweiterungen wie der Anbau der Laube aus Sandstein, die Erhoehung der Schauwand mit ihren markanten Windloechern sowie des Erkers und der imposanten Prunktreppenanlage. Der Hansesaal, in dem einst die Hansetage abgehalten wurden, und das Danzelhus, in dem ausgiebig gefeiert und getanzt wurde, sind im Laufe der Jahrhunderte verschwunden. Vieles ist jedoch noch erhalten und eine Rathausfuehrung offenbart dir die ganze Schoenheit des historischen Schmuckstuecks. Noch heute erfuellt das Rathaus im Alter von fast 800 Jahren seine Aufgabe als Verwaltungssitz und Tagungsort der Buergerschaft der Hansestadt Luebeck. Gaeste sind willkommen! Und auch fuer das leibliche Wohl ist gesorgt: das Restaurant Ratskeller in den Kellergewoelben des Rathauses ist eines der aeltesten in Norddeutschland und diente damals wie heute als geselliger Treffpunkt der Stadt."
+                }
+            }
+        },
+        "hamburg": {
+            "id": "20",
+            "sights": {
+                "elbphilharmonie": {
+                    "id": "21",
+                    "bildURL": "\/images\/Elbphilharmonie-Bild.jpeg",
+                    "name": "Die Elbphilharmonie",
+                    "beschreibung": "Die Elbphilharmonie ist das wohl bekannteste Beispiel f\u00fcr den Br\u00fcckenschlag zwischen Tradition und Moderne. Entworfen wurde das Konzerthaus von den Schweizer Architekten Herzog & de Meuron. Die Verbindung aus roten Backsteinmauern und filigranem Glasbau macht das Konzerthaus zum Inbegriff des Hamburger Selbstverst\u00e4ndnisses. Der ehemalige Kaispeicher A wurde bis gegen Ende des letzten Jahrhunderts als Lagerhaus u.a. f\u00fcr Tee, Tabak, Kakaobohnen genutzt. Er bildet das Fundament f\u00fcr 200.000 Tonnen Kultur: Die Glasfassade verwandelt den aufgesetzten Bauk\u00f6rper der Philharmonie mit 110m Gesamth\u00f6he in einen riesigen Kristall mit immer wieder neuem Erscheinungsbild. Mit seinen in Teilbereichen gekr\u00fcmmten und eingeschnittenen Glaspaneelen f\u00e4ngt er die Reflexionen des Himmels, des Wassers und der Stadt ein."
+                },
+                "landungsbr\u00fccken": {
+                    "id": "22",
+                    "bildURL": "\/images\/Landungsbruecken-Bild.jpeg",
+                    "name": "Die Landungsbr\u00fccken",
+                    "beschreibung": "Der erste Schiffsanleger an den Landungsbr\u00fccken wurde im Jahr 1839 er\u00f6ffnet. Durch diesen Sicherheitsabstand zu den angrenzenden H\u00e4usern, die in damaliger Zeit wesentlich n\u00e4her an der Wasserkante standen als heute, sollte das Laden und L\u00f6schen von Kohledampfern problemlos m\u00f6glich sein. In 1907 wurde der Schiffsanleger aus Tuffstein neu errichtet. Er bestand aus schwimmenden Pontons, und war \u00fcber neun bewegliche Br\u00fccken vom Festland aus zug\u00e4nglich. Im Gegensatz zum ersten Schiffsanleger wurde der neuere urspr\u00fcnglich als Anlegestelle f\u00fcr Personendampfer der \u00dcberseelinien genutzt, darunter die HAPAG-Linienschiffe. Im Zweiten Weltkrieg wurde der Anleger von 1907 zerst\u00f6rt, so dass die heutigen Pontons aus den Jahren 1953 bis 1955 stammen. Das letzte neue Verbindungsst\u00fcck zwischen den Br\u00fccken 2 und 3 wurde in 1976 eingesetzt. Die \u00dcberdachung und Beleuchtung wurden im Jahr 1999 modernisiert."
+                },
+                "michel": {
+                    "id": "23",
+                    "bildURL": "\/images\/Michel-Bild.jpeg",
+                    "name": "Die St. Michaelis Kirche",
+                    "beschreibung": "Der Michel, wie die evangelische Hauptkirche St. Michaelis von Einheimischen und Besuchern gleicherma\u00dfen genannt wird, ist in der gesamten Hamburger Innenstadt pr\u00e4sent. Das mag vor allem am 132 Meter hohen Turm der Kirche liegen, der die meisten Geb\u00e4ude der Innenstadt \u00fcberragt und aus vielen Blickwinkeln zu sehen ist. Obwohl der Michel vor allem durch die Elbphilharmonie Konkurrenz als Wahrzeichen der Stadt bekommen hat, ist die Barockkirche weiterhin Publikumsmagnet und ikonisch f\u00fcr das Hamburger Stadtbild."
+                },
+                "Toms Haus": {
+                    "id": "24",
+                    "bildURL": "",
+                    "name": "Toms Haus",
+                    "beschreibung": "Ein besonders interressantes Bauwerk, eigentlich nicht."
+                }
+            }
+        },
+        "berlin": {
+            "id": "30",
+            "sights": {
+                "brandenburger_tor": {
+                    "id": "31",
+                    "bildURL": "\/images\/BrandenburgerTor-Bild.jpeg",
+                    "name": "Das Brandenburger Tor",
+                    "beschreibung": "Berlin verdankt das Brandenburger Tor K\u00f6nig Friedrich Wilhelm II., der hatte das gro\u00dfe Sandsteintor in Auftrag gegeben um einen w\u00fcrdevollen Abschluss des Pracht-Boulevards Unter den Linden zu haben. Das Tor geh\u00f6rt zu den gr\u00f6\u00dften und sch\u00f6nsten Bauten des Klassizismus. Es Es entstand in den Jahren 1788 bis 1791 nach Entw\u00fcrfen von Carl Gotthard Langhans d.\u00c4., der sich stark an den Propyl\u00e4en der Athener Akropolis orientierte. Zwei Jahre nach Fertigstellung des Brandenburger Tors wurde die Quadriga, ein Wagen der von vier Pferden gezogen wird, auf das Dach des Tores gesetzt. Das Brandenburger Tor erhielt im Zuge des Mauerbaus besondere Symbolkraft. Mit dem Bau der Mauer im August 1961 fristete das Bauwerk ein einsames Dasein, denn es befand sich fortan im Sperrbereich und konnte weder von Ostlern noch Menschen aus dem Westen besucht bzw. durchschritten werden. Mit dem Fall der Mauer 1989 wurde das Brandenburger Tor zum Symbol der Wiedervereinigung. Am 22. Dezember 1989 erfolgte unter dem Jubel von mehr als 100.000 Menschen die \u00d6ffnung des Tores. Die Quadriga wurde aber durch die Vereinigungsfeiern, vor allem in der Silvesternacht 1989\/90, so stark besch\u00e4digt, dass sie zwei Jahre sp\u00e4ter restauriert werden musste."
+                },
+                "reichstag": {
+                    "id": "32",
+                    "bildURL": "\/images\/Reichstag-Bild.jpeg",
+                    "name": "Der Reichstag",
+                    "beschreibung": "Das Reichstagsgeb\u00e4ude in Berlin ist seit 1999 Sitz des Deutschen Bundestages. Noch gibt es unter jedem Turmdach je einen Fraktionssitzungssaal f\u00fcr die Union, die SPD, die Linke und die Gr\u00fcnen. Wenn nun sechs Fraktionen einziehen, k\u00f6nnten die vier Kleinen auch wieder paarweise unterkommen. Doch wenn die Kleinen gro\u00df werden, wird's bei denen eng, w\u00e4hrend bei einem Schrumpfen der Gro\u00dfen dort leerer Raum entsteht. Ein Fl\u00e4chenausgleich ist auf der Fraktionsebene architektonisch nicht m\u00f6glich, weil Innenh\u00f6fe dazwischenliegen. Das Geb\u00e4ude, in dem das deutsche Parlament, der Bundestag, beheimatet ist, hei\u00dft Reichstag. Dies sind die Meilensteine seiner bewegten Geschichte."
+                },
+                "holocaust_mahnmal": {
+                    "id": "33",
+                    "bildURL": "\/images\/HolocaustMahnmal-Bild.jpeg",
+                    "name": "Das Denkmal der ermordeten Juden in Europa",
+                    "beschreibung": "Das Holocaust-Mahnmal besteht aus einem wellenf\u00f6rmigen Feld aus 2711 Betonstelen, das von allen Seiten durchgehbar ist. Beim Wandeln zwischen den verschieden hohen S\u00e4ulen und den labyrinthartigen G\u00e4ngen kommt bei Besuchern vielleicht ein kurzer Moment der Orientierungslosigkeit auf, der Raum f\u00fcr die Auseinandersetzung \u00f6ffnen soll. Unter dem Mahnmal liegt der Ort der Information, der in Themenr\u00e4umen die Verbrechen der Nazizeit dokumentiert. Im Juni 1999 beschloss der Bundestag, das 'Denkmal f\u00fcr die ermordeten Juden Europas', so lautet der offizielle Name des Mahnmals, in unmittelbarer N\u00e4he des Brandenburger Tors zu bauen. Nach zwei Jahren Bauzeit wurde das Mahnmal am 10. Mai 2005 feierlich er\u00f6ffnet. Auf einem rund 19.000 Quadratmeter gro\u00dfen Feld wurden 2711 Stelen installiert\u2013 so wie es der Entwurf des New Yorker Architekten Peter Eisenman vorsah. Bei dem Denkmal handelt es sich um die zentrale Holocaustgedenkst\u00e4tte in Deutschland."
+                }
+            }
+        },
+        "bremen": {
+            "id": "40",
+            "sights": {
+                "rathaus": {
+                    "id": "41",
+                    "bildURL": "\/images\/RathausBremen-Bild.jpeg",
+                    "name": "Das Rathaus",
+                    "beschreibung": "Ich freue mich, Sie auf dieser Seite und damit in diesem \u00fcber 600 Jahre alten Geb\u00e4ude begr\u00fc\u00dfen zu k\u00f6nnen. Wir in Bremen sind stolz darauf, dass die UNESCO unser Rathaus gemeinsam mit dem Bremer Roland zum Welterbe der Menschheit erkl\u00e4rt hat. Das bedeutet: Nirgendwo anders auf der Welt findet sich ein Rathaus, das mit diesem vergleichbar w\u00e4re. Es ist einzigartig - und schon deswegen lohnt sich ein virtueller Rundgang durch dieses Haus, zu dem ich Sie herzlich einlade. - Bremer B\u00fcrgermeister Andreas Bovenschulte"
+                },
+                "muellverbrennungsanlage": {
+                    "id": "42",
+                    "bildURL": "\/images\/M\u00fcllverbrennungsanlage-Bild.jpeg",
+                    "name": "Die M\u00fcllverbrennungsanlage",
+                    "beschreibung": "Das Alte Pumpwerk in Bremen-Findorff an der Salzburger- und der Bayernstra\u00dfe ist ein stillgelegtes Abwasserpumpwerk, das seitdem als Museum f\u00fcr die Technik- und Kulturgeschichte der Abwasserentsorgung in Bremen dient. Altes Pumpwerk liegt 1\u00bc km s\u00fcdwestlich von M\u00fcllheizkraftwerk Bremen. Foto: Godewind, CC BY-SA 3.0."
+                },
+                "universum_bremen": {
+                    "id": "43",
+                    "bildURL": "\/images\/UniversumBremen-Bild.jpeg",
+                    "name": "das Universum Bremen",
+                    "beschreibung": "Im Universum\u00ae Bremen begeben Sie sich auf eine au\u00dfergew\u00f6hnliche Entdeckungstour in die Welt der Wissenschaft. An \u00fcber 300 Exponaten k\u00f6nnen Sie naturwissenschaftliche Ph\u00e4nomene hautnah und mit allen Sinnen erleben und verstehen. Unsere drei Themenbereiche Technik, Mensch, Natur warten darauf, erkundet zu werden. Viel Spa\u00df dabei! Es kann auch drau\u00dfen geforscht werden! Im Au\u00dfenbereich laden weitere spannende Stationen zu den Themen Wasser und Wind ein. Kennen Sie das Himmelsfenster auf unserem Turm der L\u00fcfte? Der 27 Meter hohe Turm bietet nicht nur eine tolle Aussicht \u00fcber Bremen, sondern \u00fcberrascht auch mit weiteren interessanten Exponaten zum Ausprobieren und Entdecken. Hoch hinaus! Verbl\u00fcffende Experimente bringen Sie w\u00e4hrend unserer t\u00e4glichen Science-Shows zum Staunen \u2013 hier gibt es Wissenschaft mit Spa\u00dfgarantie. Die Shows sollten kleine und gro\u00dfe Forscherinnen und T\u00fcftler bei einem Besuch im Universum\u00ae nicht verpassen!"
+                }
+            }
+        },
+        "heidelberg": {
+            "id": "50",
+            "sights": {
+                "schloss": {
+                    "id": "51",
+                    "bildURL": "",
+                    "name": "schloss",
+                    "beschreibung": "Das Heidelberger Schloss ist eine der ber\u00fchmtesten Ruinen Deutschlands und das Wahrzeichen der Stadt Heidelberg."
+                },
+                "sight": {
+                    "id": "xy",
+                    "bildURL": null,
+                    "name": "sight",
+                    "beschreibung": ""
+                }
+            }
+        },
+        "Moelln": {
+            "id": "60",
+            "sights": {
+                "Eulenspiegel": {
+                    "id": "61",
+                    "bildURL": null,
+                    "name": "Eulenspiegel",
+                    "beschreibung": "Iss halt krass so!"
+                }
+            }
+        },
+        "Bochum": {
+            "id": "70",
+            "sights": {
+                "Starlight Express": {
+                    "id": "71",
+                    "bildURL": null,
+                    "name": "Starlight Express",
+                    "beschreibung": "Schlittschuh, neh gar nicht Schlittschu. Rollschul Musikfestival..."
+                }
+            }
+        }
+    }
+}
